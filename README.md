@@ -1,2 +1,2 @@
-# vue.js-cordova-electron
+# webpack-cordova-electron
 Cross platform dev by example
