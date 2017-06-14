@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img @click="mumuxe()" src="./assets/logo.png">
+    <img src="./assets/logo.png">
     <hello></hello>
     <camera></camera>
   </div>
